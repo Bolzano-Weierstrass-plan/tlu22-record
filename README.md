@@ -4,4 +4,4 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 ----
 |Date|Rule 1|Rule 2|Rule 3|Punishment|
 |----|------|------|------|----------|
-|8/22/2023|failed|failed|successed|completed|
+|8/22/2023|failed(1.5/3 hours)|failed|successed|completed|
