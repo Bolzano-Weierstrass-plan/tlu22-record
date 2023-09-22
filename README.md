@@ -6,3 +6,5 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 |----|------|------|------|----------|
 |8/22/2023|failed(1.5/3 hours)|failed|succeeded|completed|
 |8/23/2023|succeeded(3/3 hours)|failed|succeeded|completed|
+|Restart plan|||
+|9/21/2023|failed|succeeded(half of 3-B)|failed|completed
