@@ -14,3 +14,4 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 |9/25/2023|failed|failed(none)|failed|completed|
 |9/26/2023|failed|failed|succeeded|completed|
 |9/27/2023|failed|failed|succeeded|completed|
+|9/28/2023|succeeded|failed|succeeded|completed|
