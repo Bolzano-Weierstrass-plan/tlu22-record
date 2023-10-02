@@ -15,3 +15,4 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 |9/26/2023|failed|failed|succeeded|completed|
 |9/27/2023|failed|failed|succeeded|completed|
 |9/28/2023|succeeded|failed|succeeded|completed|
+|9/29/2023|mathworkshop|10/1/2023|||
