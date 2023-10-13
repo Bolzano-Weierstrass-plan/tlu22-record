@@ -18,3 +18,4 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 |9/29/2023|mathworkshop|10/1/2023|||
 |10/10/2023|succeeded(3-D)|succeeded|succeeded||
 |10/11/2023|failed(sleeping in the afternoon)|succeeded(1/2 3-E)|succeeded|completed|
+|10/12/2023|failed(same as yesterday)|failed(1/4 3-E)|succeeded|completed|
