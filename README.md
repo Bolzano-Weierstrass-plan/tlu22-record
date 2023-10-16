@@ -20,3 +20,4 @@ this is the record of tlu22's rules' status. The status of the previous day shou
 |10/11/2023|failed(sleeping in the afternoon)|succeeded(1/2 3-E)|succeeded|completed|
 |10/12/2023|failed(same as yesterday)|failed(1/4 3-E)|succeeded|completed|
 |10/14/2023|failed|failed|succeeded|completed|
+|10/15/2023|succeeded|succeeded(finish 3-E)|succeeded|completed|
